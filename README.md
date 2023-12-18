@@ -1,5 +1,5 @@
 # Hacker-Rank Basic SQL Quires
-
+ 
 This repository contains solutions to the Basic SQL Queries challenges on HackerRank. These challenges are designed to help you improve your SQL skills by providing a set of problems to solve.
 
 ## Table of Contents
