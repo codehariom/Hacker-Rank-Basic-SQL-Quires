@@ -4,12 +4,10 @@ This repository contains solutions to the Basic SQL Queries challenges on Hacker
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Directory Structure](#directory-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction]
+- [Getting Started]
+- [Directory Structure]
+- [Usage]
 
 ## Introduction
 
